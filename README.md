@@ -1,4 +1,5 @@
-# SportsEvent_regisration
+# Real-Time Data Streaming and Analytics for Sports Event Registration
+
 INTRODUCTION
 
 In today's digital era, sports event management has evolved beyond simple registration and ticketing to include complex data analytics that enhance participant engagement and optimize event operations. Real-time data analysis has become crucial for understanding participant dynamics and improving the overall event experience. This project aims to develop a high-performance data pipeline using **Apache Kafka**, **Java Servlets**, **JSP**, and **MySQL** to manage and analyze real-time data generated from sports event registrations.
