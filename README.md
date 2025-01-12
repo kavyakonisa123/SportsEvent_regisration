@@ -27,7 +27,7 @@ At the heart of Kafka's ecosystem are several key components:
 ### Project Architecture:
 The system uses a layered architecture that ensures the separation of concerns, making it easier to maintain and scale. The architecture also supports efficient data handling and provides real-time monitoring capabilities, crucial for handling peak loads during event registrations.
 
-![System Architecture](./images/system-architecture.png)
+![System Architecture](./images/System-architecture.png)
 
 # Project Setup and Execution Guide
 
